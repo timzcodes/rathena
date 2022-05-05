@@ -30,6 +30,7 @@ OnHide:
 OnUnhide:
 	enablenpc();
 	specialeffect EF_SUMMONSLAVE;
+	specialeffect EF_BASH;
 	end;
 
 OnTouch_:
